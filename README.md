@@ -12,4 +12,4 @@ To run Oh-My-Posh when opening Powershell, create/edit the file Microsoft.PowerS
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/ninjaraccoon.omp.json" | Invoke-Expression
 ```
 
-(More details and info at (https://ohmyposh.dev/docs/installation/windows)[https://ohmyposh.dev/docs/installation/windows]
+More details and info at (https://ohmyposh.dev/docs/installation/windows)[https://ohmyposh.dev/docs/installation/windows]
